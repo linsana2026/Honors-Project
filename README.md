@@ -4,5 +4,4 @@ Identifying which alleles came from each grandparent, and looking for the origin
 
 
 
-### Unifrac PCoA performed on Unweighted UniFrac distance matrix 
-![chr1](blob/Plots/1 _chromosome.png?raw=true)
+![chr1](/Plots/1 _chromosome.png?raw=true)
