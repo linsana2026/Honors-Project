@@ -8,6 +8,7 @@ pgf <- read.table("Raw_Data/AncestryDNA_FI.txt", sep="\t", header=TRUE,row.names
 mgm <- read.table("Raw_Data/AncestryDNA_MH.txt", sep="\t", header=TRUE,row.names=1)
 mgf <- read.table("Raw_Data/AncestryDNA_RM.txt", sep="\t", header=TRUE,row.names=1)
 
+
 source('code/R-functions.r')
 
 plot_chromsome(chrom = 21, output_dir = 'Plots/')
