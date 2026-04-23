@@ -38,17 +38,17 @@ Figure 3. Multigenerational Logic Diagram. Representative of Every SNP where I a
 
 Figure 3 visually demonstrates how if we take the same logic from figures 1 and 2, and apply it to determine allele contribution at the grandparent level, we could identify at a single biallelic SNP the grandparent of origin for each allele to the corresponding parent. For this to work, the SNP of interest must follow the following parameters:
 
-1. My gentoype is heterozygous.
+1.My gentoype is heterozygous.
 
-2. Parent corresponding to grandparents is heterozygous.
+2.Parent corresponding to grandparents is heterozygous.
 
-3. Parant not corresponding to grandparents is homozygous.
+3.Parant not corresponding to grandparents is homozygous.
 
 If the raw genetic data for both grandparents on the corresponding parent’s side are available, you could find potential ancestral markers at the same SNP if the genotypes were the following:
 
-1. Both of the grandparents are homozygous.
+1.Both of the grandparents are homozygous.
 
-2. One corresponding grandparent is heterozygous.
+2.One corresponding grandparent is heterozygous.
 
 
 
